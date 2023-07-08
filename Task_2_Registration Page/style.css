@@ -278,6 +278,10 @@ body {
     transform: translate(100%, 0);
     right: 50%;
 }
+.techno:hover{
+    transform: scale(1.2);
+    cursor: pointer;
+}
 
 /* RESPONSIVE */
 
